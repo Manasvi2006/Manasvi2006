@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - I'm a student at University of Illinois Chicago 
 - Pronouns: She/Her
 
-![](https://komarev.com/ghpvc/?username=Manasvi2006&color=ff69b4&style=for-the-badge&label=𖹭_Welcome to my page viewer)
+![](https://komarev.com/ghpvc/?username=Manasvi2006&color=ff69b4&style=for-the-badge&label=𖹭_Welcome_to_my_page_viewer)
 <br>
