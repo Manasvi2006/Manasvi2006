@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Manasvi!
 
 <!--
 **Manasvi2006/Manasvi2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me
+- I'm a student at University of Illinois Chicago 
+- Pronouns: She/Her
+
+![](https://komarev.com/ghpvc/?username=Manasvi2006&color=ff69b4&style=for-the-badge&label=🍨_hello)
+<br>
